@@ -1,0 +1,18 @@
+{
+  "USERS": [
+    {
+      "id": "530f",
+      "name": "Ivan",
+      "task": "wwwrw",
+      "read": "да",
+      "noread": "нет"
+    },
+    {
+      "id": "1ec7",
+      "name": "Fedor",
+      "task": "wwwrw",
+      "read": "да",
+      "noread": "нет"
+    }
+  ]
+}
